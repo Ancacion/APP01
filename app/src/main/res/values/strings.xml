@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">App1</string>
+    <string name="ok">確定</string>
+    <string name="txtR">建議:</string>
+    <string name="sug_not_hurry">not hurry</string>
+    <string name="sug_get_married">get marry</string>
+    <string name="sug_find_couple">find couple</string>
+    <string name="x">輸入錯誤</string>
+    <string name="a"> = A</string>
+    <string name="b"> = B</string>
+    <string name="c"> = C</string>
+    <string name="d"> = D</string>
+    <string name="f"> = F</string>
+    <string name="gradeText">成績:</string>
+    <string name="inputGrade">請輸入整數成績</string>
+    <string name="inputgrade">請輸入整數成績</string>
+    <string name="btnOK">成績轉換</string>
+    <string name="output">等第:</string>
+</resources>
