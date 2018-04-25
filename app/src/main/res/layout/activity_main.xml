@@ -38,8 +38,7 @@
             android:id="@+id/button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:elevation="0dp"
-            android:gravity="center_vertical|center_horizontal|center"
+            android:elevation="15dp"
             android:text="@string/btnOK" />
 
         <TextView
